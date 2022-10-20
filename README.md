@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
-
+frontend learning through challenges.
 ### Screenshot
 
 ![screenshot of qr element centered on blue background](./design/screencapture-jshjshsinger-github-io-QR-code-component-FEM-2022-10-20-10_31_02.png)
