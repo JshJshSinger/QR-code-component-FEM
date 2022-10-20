@@ -24,7 +24,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: https://jshjshsinger.github.io/QR-code-component-FEM/
 
 ## My process
-  
+  -write base html, divs, hierarchy
+  -mobile first, check for formatting changes in the desktop version
+  -update html
+  -add classes to markup
+  -start the css
+  -reset css defaults
+  -start styling, using classes as needed.
+  -check against reference, make adjustments, repeat.
+  -commit with a note, and push to github at notible stages.
 
 ### Built with
 
@@ -34,7 +42,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 ### Continued development
-
+- streamlining css
 
 ## Author
 
