@@ -48,4 +48,4 @@ frontend learning through challenges.
 ## Author
 
 - Website - [Josh](https://www.jgomotion.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JshJshSinger)
+- Frontend Mentor - [@JshjshSinger](https://www.frontendmentor.io/profile/JshJshSinger)
