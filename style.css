@@ -5,14 +5,15 @@
 }
 html{
     box-sizing: border-box;
-    text-align: center;
+    text-align: center;background-color: brown;
+    
 }
 *, *:before, *:after{
     box-sizing: inherit;
 }
 body{
-    background-image:url("design/desktop-design.jpg") ;
-    /* background-color:rgb(204, 255, 255); */
+
+    background-color:rgb(204, 255, 255);
     width: 100vw;
     height: 100vh;
     padding:10%;
@@ -26,8 +27,8 @@ body{
 .content-all{
     max-width: 320px;
     align-self: center;
-    background-color: rgba(255, 0, 0, .5 );
-    margin-top: 11%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 1.5%;
     aspect-ratio: .64;
     border-radius: 18px;
     display: flex;
@@ -45,7 +46,10 @@ main img{
 
 }
 .content-text{
-    margin: 7%;
+    margin: 12%;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -53,11 +57,12 @@ main img{
 }
 h1{
     font-size: 1.4rem;
-    margin-bottom: 10%;
+
 }
 p{
     font-size: .95rem;
     
-    max-width: 95%;
+    max-width: 98%;
     margin:0 auto;
+    margin-top: 6%;
 }
